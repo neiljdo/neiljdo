@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![neiljdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=neiljdo)](https://github.com/anuraghazra/github-readme-stats)
+[![neiljdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=neiljdo&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+  
