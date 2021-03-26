@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning parallel computing and scientific ML following the amazing [MIT 18.337/6.338 lectures](https://www.youtube.com/channel/UCDtsHjkOEMHYPGgpKX8VOPg)
+- 🌱 I’m currently learning parallel computing and scientific ML following the amazing [MIT 18.337/6.338 lectures](https://www.youtube.com/channel/UCDtsHjkOEMHYPGgpKX8VOPg) (I actually just wanted an excuse to learn [Julia](https://julialang.org/))
 
 [![neiljdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=neiljdo&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![neiljdo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neiljdo&hide=ipynb,html)](https://github.com/anuraghazra/github-readme-stats)
+
+[![neiljdo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neiljdo&hide=ipynb,html,css,ruby,coffeescript&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
