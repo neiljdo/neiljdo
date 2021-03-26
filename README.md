@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋🏼
 
 <!--
 **neiljdo/neiljdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I’m currently learning parallel computing and scientific ML following the amazing [MIT 18.337/6.338 lectures](https://www.youtube.com/channel/UCDtsHjkOEMHYPGgpKX8VOPg)
+
 [![neiljdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=neiljdo&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-  
+[![neiljdo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neiljdo&hide=ipynb,html)](https://github.com/anuraghazra/github-readme-stats)
